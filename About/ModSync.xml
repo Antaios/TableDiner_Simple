@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>3e759ec7-6515-461a-9298-e19a7f7e6d8d</ID>
+  <ModName>Table Diner Simple</ModName>
+  <Version>1.2</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>Antaios</Owner>
+    <Project>TableDiner_Simple</Project>
+    <AboutDir>About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
