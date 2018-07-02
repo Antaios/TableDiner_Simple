@@ -1,4 +1,4 @@
-# TableDiner
+# TableDiner_Simple
 A Tiny XML patch to increase the pawn table search radius from 25 to 60.
 
 Lots of people complain about pawns getting the "Ate without table" debuff too often, The cause is generally that their table is just too far away from where the colonists grab their food.
