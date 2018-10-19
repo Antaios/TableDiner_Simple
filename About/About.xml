@@ -2,9 +2,9 @@
 <ModMetaData>
   <name>Table Diner Simple</name>
   <author>Antaios</author>
-	<targetVersion>0.19.2009</targetVersion>
+	<targetVersion>1.0.2059</targetVersion>
   <description>A Tiny XML patch to increase the pawn table search radius from 32 to 60.
   
-  Version 1.31
+  Version 1.32
   </description>
 </ModMetaData>
